@@ -1,5 +1,5 @@
 board = ["X", "O", "X", "O", "X", "X", "O", "X", "O"]
-row = "|"
+row = " | "
 line = "-----------"
 
 def display_board(spot)
