@@ -1,6 +1,6 @@
 board = ["X", "O", "X", "O", "X", "X", "O", "X", "O"]
 row = " | "
-line = "-----------"
+line = " ----------- "
 
 def display_board(spot)
   puts "#{spot[0]} #{row} #{spot[1]} #{row} #{spot[2]}"
